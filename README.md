@@ -1,5 +1,5 @@
 # Aplikasi Peminjaman buku Perpustakaan Dekstop Java
-Program Aplikasi Peminjaman Buku Perpustakaan Desktop Berbasis Java
+Program ini dibuat dengan Java dan Mysql 
 
 ## Deskripsi
 Program Aplikasi Peminjaman Buku Perpustakaan Desktop Berbasis Java adalah sebuah aplikasi sederhana yang dirancang untuk mengelola sistem peminjaman buku di sebuah perpustakaan. Aplikasi ini dibangun menggunakan bahasa pemrograman Java dan dirancang untuk digunakan pada desktop.
